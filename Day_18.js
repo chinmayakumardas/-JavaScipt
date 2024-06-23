@@ -8,6 +8,7 @@ function isChar(s){
         if(l>=65 && l<=97){
             return "uppercase"
         }if(l>=98 && l<=123){
+         
             return "lowercase"
         }
  }
